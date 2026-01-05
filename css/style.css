@@ -117,6 +117,13 @@ img{
     line-height: 1;
     margin-bottom: 1rem;
 }
+.cover-menu{
+    background-image: url(../images/cover-menu-l.webp);
+}
+.grid{
+    gap: 3rem 2rem;
+    grid-template-columns: repeat(3, 1fr);
+}
 
 
 
